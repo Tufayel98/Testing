@@ -12,7 +12,32 @@ I am just testing the software tying to find out what is happening
 This is just informing me of the new chapter  
 
 ## Section 3
-I am just checking this stuff out 
+I am just checking this stuff out   
 
 
+### Section 4
+Testing
 
+#### Section 5
+added multiple sub headings
+
+#### Section 6 
+Continuation of testing 
+
+##### Section 7 
+Local machine 
+
+
+###### Section 8
+Orign is a reference to URL
+
+
+# Chapter 3  
+We are learning git today  
+Testing      
+
+## Git files
+Use this to manage the resporitory 
+
+### Testing again
+Lets try this 
